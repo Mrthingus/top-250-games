@@ -1,0 +1,22 @@
+body {
+	background-color:#f4f4f4;
+}
+
+h1 {
+	font-family: verdana;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+th {
+	font-family: verdana;
+	font-size: 12px;
+}
+
+td {
+	font-family: verdana;
+	font-size: 12px;
+}
